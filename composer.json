@@ -1,7 +1,7 @@
 {
   "name": "peshko/testcomposer",
   "description": "my test composer package",
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "license": "proprietary",
   "authors": [
     {
